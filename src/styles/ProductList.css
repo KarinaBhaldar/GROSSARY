@@ -1,0 +1,78 @@
+/* Product Card Styles */
+.product-card {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: calc(25% - 20px); /* Adjusted width for four products per row */
+    display: inline-block;
+    vertical-align: top; /* Aligns products to the top of the container */
+    box-sizing: border-box; /* Ensures padding and borders are included in the width */
+    transition: box-shadow 0.3s ease; /* Add transition for hovering effect */
+  }
+  
+  .product-card img {
+    width: 100%;
+    border-radius: 5px;
+    object-fit: cover; /* Ensures the image covers the entire container */
+    height: 200px; /* Set a fixed height for all images */
+  }
+  
+  .product-card .name {
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+  .product-card .price {
+    color: green;
+    margin-top: 5px;
+  }
+  
+  .product-card button {
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add transition for hovering effect */
+  }
+  
+  .product-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Product List Styles */
+  .product-list {
+    text-align: center;
+  }
+  
+  .product-list .row {
+    margin-bottom: 20px;
+  }
+  
+  .product-list .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .product-card {
+      width: calc(50% - 20px); /* Adjusted width for two products per row on smaller screens */
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .product-card {
+      width: 100%; /* Full width for one product per row on even smaller screens */
+    }
+  }
+  .total-price {
+    font-weight: bold;
+    color: black; 
+    font-size: 44px;
+  }

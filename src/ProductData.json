@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "ONION",
+        "price": 30,
+        "image": "https://wallpaperaccess.com/full/1912934.jpg"
+      },
+      {
+        "id": "2",
+        "name": "LOKI",
+        "price": 40,
+        "image": "https://c.ndtvimg.com/2023-05/d4ug4lg8_lauki_625x300_24_May_23.jpg?im=FaceCrop"
+      },
+      {
+        "id": "3",
+        "name": "PINEAPPLE",
+        "price": 25,
+        "image": "https://th.bing.com/th/id/OIP.pD9ao4uy3XRsCjZpWTHQGgHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "4",
+        "name": "WATERMELON",
+        "price": 20,
+        "image": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg"
+      },
+      {
+        "id": "5",
+        "name": "CABBAGE",
+        "price": 15,
+        "image": "https://www.thespruceeats.com/thmb/vh3pzGIKw5gzZPRXbOLdeX-4-cE=/2127x1409/filters:fill(auto,1)/Headsofgreencabbage-5bfda38346e0fb00264606e3.jpg"
+      },
+      {
+        "id": "6",
+        "name": "ORANGE",
+        "price": 35,
+        "image": "https://www.collinsdictionary.com/images/thumb/orange_342874121_250.jpg?version=5.0.50"
+      },
+      {
+        "id": "7",
+        "name": "MANGO",
+        "price": 20,
+        "image": "https://th.bing.com/th/id/R.56d48000affd8f4464a54081c77e0325?rik=QpGGoJ8N67fCdA&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2017%2f01%2fMango-HD-Wallpaper.jpg&ehk=oLj0XKQ46%2f9PP7Llvi2Nq0ptyu6dO%2bwOMWzrGvWU5pU%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": "8",
+        "name": "POTATO",
+        "price": 20,
+        "image": "https://www.netafimindia.com/globalassets/demo/potato/potatoes_challenge.jpg?height=0&width=1500&mode=crop&quality=100"
+      },
+      {
+        "id": "9",
+        "name": "GRAPES",
+        "price": 50,
+        "image": "https://smartyield.in/wp-content/uploads/2021/06/Green-grape.png"
+      },
+      {
+        "id": "10",
+        "name": "LADY FINGERS",
+        "price": 40,
+        "image": "https://th.bing.com/th/id/R.154fe436b5688a29f82820107fa723b1?rik=wJOSxtr6N0GoZg&riu=http%3a%2f%2ftips.pk%2fwp-content%2fuploads%2f2015%2f12%2flady-fingers.jpg&ehk=ozFWm79zAZTYEYxdbp0TLRVYsnYNqKZKuzbEdT18Whs%3d&risl=&pid=ImgRaw&r=0"
+      }
+    ]
+  }
+  
